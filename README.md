@@ -20,7 +20,7 @@ Este proyecto aprovecha componentes visuales y utilitarios listos para usar, ada
 ⚙️ Todos los componentes se adaptaron manualmente para integrarse con Astro y mantener una estética coherente.
 
 ---
-
+```
 📁 Estructura del Proyecto (resumen)
 STARNETWEB/
 │
@@ -39,7 +39,7 @@ STARNETWEB/
 ├── package-lock.json     # Mapa exacto de las dependencias instaladas
 ├── README.md             # Explicación del proyecto
 └── tsconfig.json         # Configuración de TypeScript
-
+```
 ---
 
 📦 Instalación y ejecución
